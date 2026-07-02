@@ -1,0 +1,14 @@
+{
+  "business": "Taideterassi Harmu",
+  "type": "Bar",
+  "slug": "taideterassi-harmu",
+  "files": [
+    "index.html",
+    "style.css",
+    "script.js",
+    "about.html",
+    "contact.html",
+    "menu.html"
+  ],
+  "model": "llama-3.3-70b-versatile"
+}
